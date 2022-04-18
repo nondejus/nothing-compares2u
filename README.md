@@ -7,3 +7,5 @@ https://nl.wikipedia.org/wiki/Bouman_GGZ
 https://en.wikipedia.org/wiki/Stabbing
 
 https://nl.wikipedia.org/wiki/Injectiespuit
+
+https://en.wikipedia.org/wiki/Bioterrorism
