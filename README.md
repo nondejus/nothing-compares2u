@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Janssen_Pharmaceuticals
 https://en.wikipedia.org/wiki/Bioterrorism
 
 https://en.wikipedia.org/wiki/Neurodegenerative_disease
+
+https://en.wikipedia.org/wiki/Catatonia
