@@ -8,4 +8,6 @@ https://en.wikipedia.org/wiki/Stabbing
 
 https://nl.wikipedia.org/wiki/Injectiespuit
 
+https://en.wikipedia.org/wiki/Janssen_Pharmaceuticals
+
 https://en.wikipedia.org/wiki/Bioterrorism
